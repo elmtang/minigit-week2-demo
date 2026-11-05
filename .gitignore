@@ -9,7 +9,8 @@ CTestTestfile.cmake
 
 # Visual Studio and VS Code local state
 .vs/
-.vscode/
+.vscode/*
+!.vscode/extensions.json
 
 # Common compiled outputs
 *.obj

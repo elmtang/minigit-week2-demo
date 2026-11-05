@@ -2,9 +2,13 @@
 
 Class demo repository for Week 2. `main` starts where HW8 ended: `PathLab` has `metadataDirectory`, `headFile`, `writeTextFile` and `readTextFile`, with passing tests. This week we build the first shared foundation class from the HW7 design, `RepositoryPaths`.
 
+## Tools
+
+We use **VS Code** to edit, build, test, commit and resolve conflicts. **GitHub Desktop** also works for branches and pushing. See [`docs/vscode-and-github-desktop.md`](docs/vscode-and-github-desktop.md) for each step in both tools. Open the repository folder in VS Code and install the recommended extensions when it asks.
+
 ## Build and test
 
-From the repository root (Developer PowerShell on Windows, or any terminal with CMake and a C++17 compiler):
+From the repository root (the VS Code terminal, Developer PowerShell on Windows, or any terminal with CMake and a C++17 compiler):
 
 ```
 cmake -S . -B build
