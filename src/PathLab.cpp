@@ -9,7 +9,7 @@ std::filesystem::path metadataDirectory(const std::filesystem::path& root) {
 }
 
 std::filesystem::path headFile(const std::filesystem::path& root) {
-    return metadataDirectory(root) / "HEAD";
+    return metadataDirectory(root) / "/HEAD";
 }
 
 bool writeTextFile(const std::filesystem::path& file,
