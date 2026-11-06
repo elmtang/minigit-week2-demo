@@ -51,3 +51,7 @@ RP-2 to RP-5 can be built at the same time by different teams once RP-1 is merge
 7. Merge only when Windows and Ubuntu CI pass and the instructor approves.
 
 See `docs/` for the CMake/CI guide, the review checklist and the submission sheet.
+
+## Next: FileSystem starter
+
+[`starter/filesystem/`](starter/filesystem/) holds the FileSystem header, stubbed functions, finished tests and issue drafts FS-1 to FS-4. Follow its README: one member adds the starter to your HW8 repository, then each issue fills in one function.
