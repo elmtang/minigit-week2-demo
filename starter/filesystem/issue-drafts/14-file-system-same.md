@@ -1,4 +1,4 @@
-# Issue FS-4 (optional) Implement FileSystem::same(first, second)
+# Issue FS-4 Implement FileSystem::same(first, second)
 
 ## Goal
 Fill in `FileSystem::same` so it reports whether two files contain identical bytes.

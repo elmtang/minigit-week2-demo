@@ -1,4 +1,4 @@
-# Issue FS-3 (optional) Implement FileSystem::copy(source, target)
+# Issue FS-3 Implement FileSystem::copy(source, target)
 
 ## Goal
 Fill in `FileSystem::copy` so it copies one file, creating folders and replacing an existing target.
